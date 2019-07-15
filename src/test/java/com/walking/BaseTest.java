@@ -40,4 +40,6 @@ public class BaseTest {
         driver.quit();
 
     }
+
+    //I added some code
 }
